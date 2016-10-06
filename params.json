@@ -1,0 +1,6 @@
+{
+  "name": "inmyopenshift.cloud",
+  "tagline": "Placeholder project for all the OpenShift ready templates",
+  "body": "## List of Openshift ready templates\r\nYou'll find below a list of the available OpenShift ready template\r\n\r\n* <a href=\"http://wordpress.inmyopenshift.cloud\">WordPress: a web software you can use to create a beautiful website, blog, or app.</a>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
