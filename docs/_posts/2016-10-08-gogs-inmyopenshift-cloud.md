@@ -1,6 +1,6 @@
 ---
 layout: post
-title: http://gogs.inmyopenshift.cloud
+title: http://gogs<wbr>.inmyopenshift.cloud
 ---
 
 ![alt text](https://gogs.io/img/favicon.ico "Gogs Logo")
