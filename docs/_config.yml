@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            inmyopenshift.cloud
+tagline:          'A placeholder project for all the OpenShift ready templates'
+description:      'The aim of this project and its authors is to bring to OpenShift platform a bunch of templates for deploying in the more easier way existing applications.'
+url:              http://inmyopenshift.cloud
+baseurl:          /
+
+author:
+  name:           'Alessandro Arrichiello'
+  url:            https://twitter.com/alezzandro1986
+
+paginate:         5
+gems: [jekyll-paginate]
+
+# Custom vars
+version:          0.0.1
+
+github: 
+  repo:           https://github.com/alezzandro/inmyopenshift-cloud
