@@ -1,6 +1,7 @@
 ---
 layout: post
 title: http://wordpress<wbr>.inmyopenshift.cloud
+custom_url: http://wordpress.inmyopenshift.cloud
 ---
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/540px-WordPress_logo.svg.png "WordPress Logo")

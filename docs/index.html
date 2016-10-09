@@ -12,7 +12,7 @@ title: Home
 
   {% for post in paginator.posts %}
   <div class="post">
-    <a href="{{ post.title }}">
+    <a href="{{ post.custom_url }}">
       <span class="post-date">{{ post.date | date_to_string }}</span>
 
       {{ post.content }}
